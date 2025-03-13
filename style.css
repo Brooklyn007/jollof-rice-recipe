@@ -46,7 +46,7 @@ ul {
 }
 
 .container .introduction {
-    /* max-width: 400px; */
+    min-width: 250px;
     display: flex;
     flex-direction: column;
     justify-content: center;
